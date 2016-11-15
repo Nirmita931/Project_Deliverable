@@ -127,6 +127,8 @@ if collection_finish == "y":
 
 else:
     print("error")
+logout = input("CLick on logout to shut down")
+print(logout)
 
 print("Thank you!!!")
 
